@@ -71,6 +71,16 @@ nav ul li a{
     color: black;
 }
 
+/* Animaciones */
+
+nav ul li a:hover{
+    font-size: 20px;
+}
+
+h1:hover{
+    color: rgb(110, 17, 17);
+}
+
 /* h1 */
 
 h1{
